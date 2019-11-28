@@ -1,0 +1,14 @@
+[class*="col-"] {
+  text-align: center;
+  line-height: 300px;
+  vertical-align: middle;
+}
+
+.last-line {
+  padding: 5px;
+}
+
+.last-col {
+  background-color: rgb(162, 25, 149);
+  border: 2px solid rgb(255, 255, 255);
+}
